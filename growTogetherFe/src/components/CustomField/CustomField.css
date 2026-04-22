@@ -1,0 +1,15 @@
+.custom-field{
+    font-size: var(--font-xl);
+    background: none;
+    border: none;
+    border-bottom: 2px solid black;
+    width: 400px;
+    outline: none;
+}
+.custom-field::placeholder{
+    color: #f72585;
+}
+
+.custom-field-date{
+    width: 100%;
+}
