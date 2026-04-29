@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eed8f892-6bd1-4793-8068-0c177f04eb77" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/growTogetherFe/public/icons/arrow_drop_down_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/growTogetherFe/public/icons/date_range.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/growTogetherFe/src/assets/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/growTogetherFe/src/components/ImageUploader/ImageUploader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/growTogetherFe/src/components/ImageUploader/ImageUploader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/growTogetherFe/src/pages/JoinCompany/JoinCompany.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/growTogetherFe/src/pages/JoinCompany/JoinCompany.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/growTogetherFe/src/pages/SignUp/SignUp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/growTogetherFe/src/pages/SignUp/SignUp.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growTogetherFe/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/growTogetherFe/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growTogetherFe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/growTogetherFe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growTogetherFe/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/growTogetherFe/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growTogetherFe/src/components/CustomButton/CustomButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/growTogetherFe/src/components/CustomButton/CustomButton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growTogetherFe/src/components/CustomButton/CustomButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/growTogetherFe/src/components/CustomButton/CustomButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growTogetherFe/src/components/CustomField/CustomField.css" beforeDir="false" afterPath="$PROJECT_DIR$/growTogetherFe/src/components/CustomField/CustomField.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growTogetherFe/src/components/CustomField/CustomField.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/growTogetherFe/src/components/CustomField/CustomField.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growTogetherFe/src/pages/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/growTogetherFe/src/pages/Home/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growTogetherFe/src/pages/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/growTogetherFe/src/pages/Home/Home.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -37,25 +55,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/home/darius/Desktop/growTogetherApp/growTogetherFe/growTogetherFe/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/darius/Desktop/growTogetherApp/growTogetherFe/growTogetherFe/src/components",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/home/darius/Desktop/growTogetherApp/growTogetherFe/growTogetherFe/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/growTogetherFe/src/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/growTogetherFe/public/icons" />
+      <recent name="$PROJECT_DIR$/growTogetherFe/src/pages/Home" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,7 +99,8 @@
       <option name="presentableId" value="Default" />
       <updated>1776867695513</updated>
       <workItem from="1776867696526" duration="7640000" />
-      <workItem from="1776942260674" duration="1024000" />
+      <workItem from="1776942260674" duration="1338000" />
+      <workItem from="1777458703749" duration="11246000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
